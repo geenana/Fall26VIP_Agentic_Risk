@@ -12,6 +12,7 @@ Keep rows alphabetical by preferred public name.
 | Preferred public name | GitHub |
 | --- | --- |
 | Yusuke Katsuki | [@katsukii](https://github.com/katsukii) |
+| Yihan Yao | [@geenana](https://github.com/geenana) |
 
 A GitHub username is sufficient as a public display name. Link the GitHub profile;
 keep private emails, student IDs, grades, and other student records outside this file.

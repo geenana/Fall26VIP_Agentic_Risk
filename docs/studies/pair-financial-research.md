@@ -1,4 +1,4 @@
-# Pair case — CASE TITLE
+# Pair case — Financial Research Citation Verification
 
 - Pair case issue: [#65](https://github.com/zhongnz/Fall26VIP_Agentic_Risk/issues/65)
 - Partners / GitHub usernames: [@geenana](https://github.com/geenana), [@zq2082](https://github.com/zq2082) 

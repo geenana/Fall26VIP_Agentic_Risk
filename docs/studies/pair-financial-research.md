@@ -5,7 +5,7 @@
 - Peer feedback / reviewer (when arranged; no mentor assignment needed to start): To be arranged 
 - Status: outline 
 - Dated plan revision and available feedback: 2026-10-07 — Initial short case outline completed; no peer feedback yet. 
-- Individual task links: [To be added] 
+- Individual task links: [@geenana](https://github.com/geenana) - [#66](https://github.com/zhongnz/Fall26VIP_Agentic_Risk/issues/66); [@zq2082](https://github.com/zq2082) - [#67](https://github.com/zhongnz/Fall26VIP_Agentic_Risk/issues/67) 
 
 Start with sections 1–5, about half a page. Expand this same document into the report.
 Examples and pending work must not be represented as findings. Do not fill fields
@@ -57,7 +57,7 @@ Each material claim will be labeled:
 
 Main comparison:
 
-**Unsupported Claim Rate (UCR)** = Unsupported Claims / Total Material Claims
+- **Unsupported Claim Rate (UCR)** = Unsupported Claims / Total Material Claims
 
 ## 5. Feasibility and individual roles
 
